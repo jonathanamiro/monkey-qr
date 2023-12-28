@@ -1,6 +1,6 @@
-# 📌[Qr Codes Generator ](https://qr-codes-generator.vercel.app/)
+# 📌[Qr Codes Generator ](https://monkey-qr.vercel.app/)
 
-A simple QR Code generator. Made using HTML 5, Tailwind CSS &amp; Js !! 
+A simple QR Code generator. Made using HTML , Tailwind CSS &amp; JS !! 
 
 ![Languages](https://skillicons.dev/icons?i=html,tailwind,js)
 
